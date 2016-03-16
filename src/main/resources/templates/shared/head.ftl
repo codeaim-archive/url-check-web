@@ -15,6 +15,7 @@
     <!-- FONT
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
     <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
 
     <!-- CSS
       –––––––––––––––––––––––––––––––––––––––––––––––––– -->
