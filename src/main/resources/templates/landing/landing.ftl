@@ -25,8 +25,8 @@
     </nav>
 
     <section class="header">
-        <h2 class="title">A simple free website monitoring service.</h2>
-        <a class="button button-primary" href="/">Get started it's free</a>
+        <h2 class="title">A simple website monitoring service</h2>
+        <a class="button button-primary" href="/">Get started for free</a>
     </section>
     <section id="features">
         <div class="value-props row">
@@ -34,19 +34,19 @@
                 <div class="feature-icon">
                     <i class="fa fa-3x fa-bluetooth"></i>
                 </div>
-                Light as a feather at ~400 lines &amp; built with mobile in mind.
+                Monitor your websites without hassle or inconvenience
             </div>
             <div class="four columns value-prop">
                 <div class="feature-icon">
                     <i class="fa fa-3x fa-bluetooth"></i>
                 </div>
-                Styles designed to be a starting point, not a UI framework.
+                Gain insight into your websites with advanced analytics
             </div>
             <div class="four columns value-prop">
                 <div class="feature-icon">
                     <i class="fa fa-3x fa-bluetooth"></i>
                 </div>
-                High resolution analytics
+                Track your websites uptime and performance with a global network
             </div>
         </div>
         <div class="value-props row">
@@ -54,19 +54,19 @@
                 <div class="feature-icon">
                     <i class="fa fa-3x fa-bluetooth"></i>
                 </div>
-                Hundreds of integrations
+                Be the first to know about downtime with advanced alerting
             </div>
             <div class="four columns value-prop">
                 <div class="feature-icon">
                     <i class="fa fa-3x fa-bluetooth"></i>
                 </div>
-                Open source
+                Hundreds of intergrations, simple but powerful
             </div>
             <div class="four columns value-prop">
                 <div class="feature-icon">
                     <i class="fa fa-3x fa-bluetooth"></i>
                 </div>
-                Developer friendly
+                Build for developers with a robust fully featured API
             </div>
         </div>
     </section>
